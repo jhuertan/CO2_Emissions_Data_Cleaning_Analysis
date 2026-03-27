@@ -1,1 +1,1 @@
-# CO2_Emissions_Data_Cleaning_Analysis
+Este repositorio contiene un flujo de trabajo completo para la limpieza de datos de emisiones de CO2. Incluye técnicas de normalización de strings, manejo de fechas y optimización de tipos de datos en Python.
